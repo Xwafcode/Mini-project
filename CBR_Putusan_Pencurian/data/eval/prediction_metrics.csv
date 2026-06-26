@@ -1,0 +1,5 @@
+model,label,accuracy,precision,recall,f1_score,n_samples
+TF-IDF + MajorityVote,label_pasal,0.8333,0.875,0.8333,0.8286,12
+TF-IDF + WeightedVote,label_pasal,1.0,1.0,1.0,1.0,12
+IndoBERT + MajorityVote,label_pasal,0.4167,0.2273,0.4167,0.2941,12
+IndoBERT + WeightedVote,label_pasal,0.4167,0.2273,0.4167,0.2941,12

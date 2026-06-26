@@ -12,3 +12,6 @@ Repositori ini memuat kumpulan mini proyek yang mencakup berbagai pemodelan kece
 
 3. **Regression_Insurance (HealthCost AI)**
    - Proyek analitik dan machine learning berbasis Random Forest Regression untuk memprediksi biaya asuransi medis. Dilengkapi dengan antarmuka interaktif menggunakan Streamlit.
+
+4. **CBR_Putusan_Pencurian**
+   - Sistem Case-Based Reasoning (CBR) untuk analisis putusan pengadilan tindak pidana pencurian (Pasal 362 vs Pasal 363 KUHP) dari Pengadilan Negeri Malang. Menggunakan pendekatan retrieval TF-IDF dan IndoBERT, serta antarmuka web interaktif berbasis Streamlit.

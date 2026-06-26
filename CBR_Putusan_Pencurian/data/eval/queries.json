@@ -1,0 +1,734 @@
+[
+  {
+    "query_id": "q01",
+    "source_case_id": "case_pasal_362_011",
+    "ground_truth_label_pasal": "pasal_362",
+    "ground_truth_vonis_bulan": 12,
+    "query_text": "putusa nnomor 7/pid. b/2026/pn mlgdemi keadilan berdasarkan ketuhanan yang maha esapengadilan negeri malang yang mengadili perkara pidana denganacara pemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagaiberikut dalam perkara terdakwa :1. nama lengkap : fauzan yudha santosa bin bambang santoso tempat lahir : malang3. umur/tanggal lahir : 20/2 februari 20064. jenis kelamin : laki-laki5. kebangsaan : indonesia6. tempat tinggal : dusun codo rt.03 / rw.02 kel. petungsewu kec. wagir kab.",
+    "tfidf_top5": [
+      {
+        "case_id": "case_pasal_362_011",
+        "label": "pasal_362",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_362_004",
+        "label": "pasal_362",
+        "similarity": 0.1943
+      },
+      {
+        "case_id": "case_pasal_362_025",
+        "label": "pasal_362",
+        "similarity": 0.1512
+      },
+      {
+        "case_id": "case_pasal_363_002",
+        "label": "pasal_363",
+        "similarity": 0.1386
+      },
+      {
+        "case_id": "case_pasal_362_005",
+        "label": "pasal_362",
+        "similarity": 0.1373
+      }
+    ],
+    "indobert_top5": [
+      {
+        "case_id": "case_pasal_362_011",
+        "label": "pasal_362",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_362_014",
+        "label": "pasal_362",
+        "similarity": 0.9792
+      },
+      {
+        "case_id": "case_pasal_362_010",
+        "label": "pasal_362",
+        "similarity": 0.9758
+      },
+      {
+        "case_id": "case_pasal_363_003",
+        "label": "pasal_363",
+        "similarity": 0.9739
+      },
+      {
+        "case_id": "case_pasal_363_014",
+        "label": "pasal_363",
+        "similarity": 0.9736
+      }
+    ]
+  },
+  {
+    "query_id": "q02",
+    "source_case_id": "case_pasal_363_029",
+    "ground_truth_label_pasal": "pasal_363",
+    "ground_truth_vonis_bulan": 10,
+    "query_text": "putusa nnomor 617/pid. b/2018/pn mlgdemi keadilan berdasarkan ketuhanan yang maha esapengadilan negeri malang yang mengadili perkara pidana denganacara pemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagaiberikut dalam perkara para terdakwa :terdakwa 11. nama lengkap : jumaiyah2. tempat lahir : malang3. umur/tanggal lahir : 53/7 oktober 19654. jenis kelamin : perempuan5. kebangsaan : indonesia6. tempat tinggal : jl. peltu sujono no. 36 rt. 011 rw. 003, kel. ciptomulyo, kec. sukun, ",
+    "tfidf_top5": [
+      {
+        "case_id": "case_pasal_363_029",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_027",
+        "label": "pasal_363",
+        "similarity": 0.2159
+      },
+      {
+        "case_id": "case_pasal_363_030",
+        "label": "pasal_363",
+        "similarity": 0.186
+      },
+      {
+        "case_id": "case_pasal_362_015",
+        "label": "pasal_362",
+        "similarity": 0.1726
+      },
+      {
+        "case_id": "case_pasal_363_014",
+        "label": "pasal_363",
+        "similarity": 0.1485
+      }
+    ],
+    "indobert_top5": [
+      {
+        "case_id": "case_pasal_363_029",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_018",
+        "label": "pasal_363",
+        "similarity": 0.9296
+      },
+      {
+        "case_id": "case_pasal_363_024",
+        "label": "pasal_363",
+        "similarity": 0.9286
+      },
+      {
+        "case_id": "case_pasal_363_020",
+        "label": "pasal_363",
+        "similarity": 0.9277
+      },
+      {
+        "case_id": "case_pasal_363_009",
+        "label": "pasal_363",
+        "similarity": 0.927
+      }
+    ]
+  },
+  {
+    "query_id": "q03",
+    "source_case_id": "case_pasal_363_015",
+    "ground_truth_label_pasal": "pasal_363",
+    "ground_truth_vonis_bulan": 0,
+    "query_text": "putusa nnomor 453/pid. b/2021/pn mlgdemi keadilan berdasarkan ketuhanan yang maha esapengadilan negeri malang yang mengadili perkara pidana dengan acarapemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagai berikutdalam perkara terdakwa :1. nama lengkap : handi rentoko; 2. tempat lahir : malang; 3. umur/tanggal lahir : 30 tahun / 16 juni 1991; 4. jenis kelamin : laki-laki; 5. kebangsaan : indonesia; 6. tempat tinggal : dusun krajan, rt.002 rw.001, desa wirotaman,kecamatan ampelgadin",
+    "tfidf_top5": [
+      {
+        "case_id": "case_pasal_363_028",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_019",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_023",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_026",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_022",
+        "label": "pasal_363",
+        "similarity": 1.0
+      }
+    ],
+    "indobert_top5": [
+      {
+        "case_id": "case_pasal_363_028",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_019",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_023",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_026",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_022",
+        "label": "pasal_363",
+        "similarity": 1.0
+      }
+    ]
+  },
+  {
+    "query_id": "q04",
+    "source_case_id": "case_pasal_362_007",
+    "ground_truth_label_pasal": "pasal_362",
+    "ground_truth_vonis_bulan": 5,
+    "query_text": "putusan nomor 58/pid. b/2026/pn mlgdemi keadilan berdasarkan ketuhanan yang maha esapengadilan negeri malang yang mengadili perkara pidana dengan acarapemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagai berikutdalam perkara terdakwa :1.nama lengkap: husin achmad talib bin achmad talib ; 2.tempat lahir: malang ; 3.umur/tanggal lahir: 54 tahun / 1 januari 1972 ; 4.jenis kelamin: laki-laki ; 5.kebangsaan: indonesia ; 6.tempat tinggal: jl. arjuno 3 no.42 b, rt. 001 / rw. 008 keluraha",
+    "tfidf_top5": [
+      {
+        "case_id": "case_pasal_362_007",
+        "label": "pasal_362",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_362_001",
+        "label": "pasal_362",
+        "similarity": 0.3246
+      },
+      {
+        "case_id": "case_pasal_362_005",
+        "label": "pasal_362",
+        "similarity": 0.2409
+      },
+      {
+        "case_id": "case_pasal_363_002",
+        "label": "pasal_363",
+        "similarity": 0.1676
+      },
+      {
+        "case_id": "case_pasal_362_021",
+        "label": "pasal_362",
+        "similarity": 0.1567
+      }
+    ],
+    "indobert_top5": [
+      {
+        "case_id": "case_pasal_362_007",
+        "label": "pasal_362",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_008",
+        "label": "pasal_363",
+        "similarity": 0.9758
+      },
+      {
+        "case_id": "case_pasal_362_026",
+        "label": "pasal_362",
+        "similarity": 0.9738
+      },
+      {
+        "case_id": "case_pasal_363_017",
+        "label": "pasal_363",
+        "similarity": 0.9724
+      },
+      {
+        "case_id": "case_pasal_362_021",
+        "label": "pasal_362",
+        "similarity": 0.9719
+      }
+    ]
+  },
+  {
+    "query_id": "q05",
+    "source_case_id": "case_pasal_363_016",
+    "ground_truth_label_pasal": "pasal_363",
+    "ground_truth_vonis_bulan": 0,
+    "query_text": "putusa nnomor 247/pid. b/2025/pn mlgdemi keadilan berdasarkan ketuhanan yang maha esapengadilan negeri malang yang mengadili perkara pidana denganacara pemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagaiberikut dalam perkara para terdakwa : terdakwa 11. nama lengkap : al imron bin slamet hadi wiyono2. tempat lahir : semarang3. umur/tanggal lahir : 34/3 oktober 19904. jenis kelamin : laki-laki5. kebangsaan : indonesia6. tempat tinggal : bukit mutiara jaya 1/bs-6 rt 005 rw 012 kel.",
+    "tfidf_top5": [
+      {
+        "case_id": "case_pasal_363_016",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_362_022",
+        "label": "pasal_362",
+        "similarity": 0.3595
+      },
+      {
+        "case_id": "case_pasal_362_021",
+        "label": "pasal_362",
+        "similarity": 0.1793
+      },
+      {
+        "case_id": "case_pasal_363_010",
+        "label": "pasal_363",
+        "similarity": 0.161
+      },
+      {
+        "case_id": "case_pasal_362_007",
+        "label": "pasal_362",
+        "similarity": 0.156
+      }
+    ],
+    "indobert_top5": [
+      {
+        "case_id": "case_pasal_363_016",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_017",
+        "label": "pasal_363",
+        "similarity": 0.9727
+      },
+      {
+        "case_id": "case_pasal_363_020",
+        "label": "pasal_363",
+        "similarity": 0.9685
+      },
+      {
+        "case_id": "case_pasal_362_022",
+        "label": "pasal_362",
+        "similarity": 0.9676
+      },
+      {
+        "case_id": "case_pasal_362_021",
+        "label": "pasal_362",
+        "similarity": 0.9669
+      }
+    ]
+  },
+  {
+    "query_id": "q06",
+    "source_case_id": "case_pasal_362_015",
+    "ground_truth_label_pasal": "pasal_362",
+    "ground_truth_vonis_bulan": 24,
+    "query_text": "putusa nnomor 549/pid. b/2021/pn mlgdemi keadilan berdasarkan ketuhanan yang maha esapengadilan negeri malang yang mengadili perkara pidana denganacara pemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagaiberikut dalam perkara terdakwa :1. nama lengkap : bayu ramadan2. tempat lahir : ujung pandang3. umur/tanggal lahir : 30 tahun / 17 maret 19914. jenis kelamin : laki-laki5. kebangsaan : indonesia6. tempat tinggal : dsn. gebyak rt. 02 rw. 13 ds. tunjung tirto kec. singosari kab. mal",
+    "tfidf_top5": [
+      {
+        "case_id": "case_pasal_362_015",
+        "label": "pasal_362",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_027",
+        "label": "pasal_363",
+        "similarity": 0.2021
+      },
+      {
+        "case_id": "case_pasal_363_023",
+        "label": "pasal_363",
+        "similarity": 0.1901
+      },
+      {
+        "case_id": "case_pasal_363_028",
+        "label": "pasal_363",
+        "similarity": 0.1901
+      },
+      {
+        "case_id": "case_pasal_363_019",
+        "label": "pasal_363",
+        "similarity": 0.1901
+      }
+    ],
+    "indobert_top5": [
+      {
+        "case_id": "case_pasal_362_015",
+        "label": "pasal_362",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_027",
+        "label": "pasal_363",
+        "similarity": 0.9833
+      },
+      {
+        "case_id": "case_pasal_363_023",
+        "label": "pasal_363",
+        "similarity": 0.9806
+      },
+      {
+        "case_id": "case_pasal_363_028",
+        "label": "pasal_363",
+        "similarity": 0.9806
+      },
+      {
+        "case_id": "case_pasal_363_019",
+        "label": "pasal_363",
+        "similarity": 0.9806
+      }
+    ]
+  },
+  {
+    "query_id": "q07",
+    "source_case_id": "case_pasal_363_010",
+    "ground_truth_label_pasal": "pasal_363",
+    "ground_truth_vonis_bulan": 36,
+    "query_text": "putusa nnomor 389/pid. b/2025/pn mlgdemi keadilan berdasarkan ketuhanan yang maha esapengadilan negeri malang yang mengadili perkara pidana denganacara pemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagaiberikut dalam perkara para terdakwa :i. nama lengkap :nawafi alias wafi bin fidil; tempat lahir :bangkalan; umur/tanggal lahir :27 tahun / 17 agustus 1998; jenis kelamin :laki-laki; kebangsaan :indonesia; tempat tinggal :jl. tambakasri kembang turi no. 99, rt. 06, rw.26 kel. morok",
+    "tfidf_top5": [
+      {
+        "case_id": "case_pasal_363_010",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_362_009",
+        "label": "pasal_362",
+        "similarity": 0.1882
+      },
+      {
+        "case_id": "case_pasal_363_005",
+        "label": "pasal_363",
+        "similarity": 0.1823
+      },
+      {
+        "case_id": "case_pasal_363_011",
+        "label": "pasal_363",
+        "similarity": 0.1781
+      },
+      {
+        "case_id": "case_pasal_363_006",
+        "label": "pasal_363",
+        "similarity": 0.1765
+      }
+    ],
+    "indobert_top5": [
+      {
+        "case_id": "case_pasal_363_010",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_011",
+        "label": "pasal_363",
+        "similarity": 0.9824
+      },
+      {
+        "case_id": "case_pasal_363_002",
+        "label": "pasal_363",
+        "similarity": 0.9817
+      },
+      {
+        "case_id": "case_pasal_363_025",
+        "label": "pasal_363",
+        "similarity": 0.9807
+      },
+      {
+        "case_id": "case_pasal_363_005",
+        "label": "pasal_363",
+        "similarity": 0.98
+      }
+    ]
+  },
+  {
+    "query_id": "q08",
+    "source_case_id": "case_pasal_362_008",
+    "ground_truth_label_pasal": "pasal_362",
+    "ground_truth_vonis_bulan": 10,
+    "query_text": "putusa nnomor 55/pid. b/2026/pn mlgdemi keadilan berdasarkan ketuhanan yang maha esapengadilan negeri malang yang mengadili perkara pidana dengan acarapemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagai berikutdalam perkara terdakwa:1.nama lengkap :isnaini mahmudah; 2.tempat lahir :malang; 3.umur/tanggal lahir :39 tahun / 26 april 1986; 4.jenis kelamin :perempuan; 5.kebangsaan :indonesia; 6.tempat tinggal :sonowangi, rt/rw, 028/009, kel. sonowangi, kec. ampilgading, kab. malang; ",
+    "tfidf_top5": [
+      {
+        "case_id": "case_pasal_362_008",
+        "label": "pasal_362",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_021",
+        "label": "pasal_363",
+        "similarity": 0.1361
+      },
+      {
+        "case_id": "case_pasal_362_020",
+        "label": "pasal_362",
+        "similarity": 0.1284
+      },
+      {
+        "case_id": "case_pasal_362_028",
+        "label": "pasal_362",
+        "similarity": 0.1227
+      },
+      {
+        "case_id": "case_pasal_363_001",
+        "label": "pasal_363",
+        "similarity": 0.117
+      }
+    ],
+    "indobert_top5": [
+      {
+        "case_id": "case_pasal_362_008",
+        "label": "pasal_362",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_021",
+        "label": "pasal_363",
+        "similarity": 0.9747
+      },
+      {
+        "case_id": "case_pasal_363_017",
+        "label": "pasal_363",
+        "similarity": 0.9655
+      },
+      {
+        "case_id": "case_pasal_362_025",
+        "label": "pasal_362",
+        "similarity": 0.9653
+      },
+      {
+        "case_id": "case_pasal_363_019",
+        "label": "pasal_363",
+        "similarity": 0.9647
+      }
+    ]
+  },
+  {
+    "query_id": "q09",
+    "source_case_id": "case_pasal_363_026",
+    "ground_truth_label_pasal": "pasal_363",
+    "ground_truth_vonis_bulan": 0,
+    "query_text": "putusa nnomor 453/pid. b/2021/pn mlgdemi keadilan berdasarkan ketuhanan yang maha esapengadilan negeri malang yang mengadili perkara pidana dengan acarapemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagai berikutdalam perkara terdakwa :1. nama lengkap : handi rentoko; 2. tempat lahir : malang; 3. umur/tanggal lahir : 30 tahun / 16 juni 1991; 4. jenis kelamin : laki-laki; 5. kebangsaan : indonesia; 6. tempat tinggal : dusun krajan, rt.002 rw.001, desa wirotaman,kecamatan ampelgadin",
+    "tfidf_top5": [
+      {
+        "case_id": "case_pasal_363_028",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_019",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_023",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_026",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_022",
+        "label": "pasal_363",
+        "similarity": 1.0
+      }
+    ],
+    "indobert_top5": [
+      {
+        "case_id": "case_pasal_363_028",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_019",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_023",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_026",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_022",
+        "label": "pasal_363",
+        "similarity": 1.0
+      }
+    ]
+  },
+  {
+    "query_id": "q10",
+    "source_case_id": "case_pasal_362_020",
+    "ground_truth_label_pasal": "pasal_362",
+    "ground_truth_vonis_bulan": 12,
+    "query_text": "putusa nnomor : 552/pid. b/2022/pn mlg. demi keadilan berdasarkan ketuhanan yang maha esapengadilan negeri malang yang mengadili perkara pidana pada peradilan tingkat pertama, telah menjatuhkan putusan sebagai tesebut dibawah ini, dalam perkara terdakwa nama lengkap alif fuadjati bin umar omsudi tempat lahir:sukoharjoumur/ tanggal lahir:42 tahun / 22 juni 1980jenis kelamin:laki-lakikebangsaan/kewarganegaraan:indonesiatempat tinggal blimbing rt. 04 rw. 05 kel/ desa wonorejo kec. polokarto kabupat",
+    "tfidf_top5": [
+      {
+        "case_id": "case_pasal_362_020",
+        "label": "pasal_362",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_362_015",
+        "label": "pasal_362",
+        "similarity": 0.1507
+      },
+      {
+        "case_id": "case_pasal_362_007",
+        "label": "pasal_362",
+        "similarity": 0.1304
+      },
+      {
+        "case_id": "case_pasal_362_008",
+        "label": "pasal_362",
+        "similarity": 0.1284
+      },
+      {
+        "case_id": "case_pasal_362_025",
+        "label": "pasal_362",
+        "similarity": 0.1269
+      }
+    ],
+    "indobert_top5": [
+      {
+        "case_id": "case_pasal_362_020",
+        "label": "pasal_362",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_028",
+        "label": "pasal_363",
+        "similarity": 0.9781
+      },
+      {
+        "case_id": "case_pasal_363_023",
+        "label": "pasal_363",
+        "similarity": 0.9781
+      },
+      {
+        "case_id": "case_pasal_363_019",
+        "label": "pasal_363",
+        "similarity": 0.9781
+      },
+      {
+        "case_id": "case_pasal_363_022",
+        "label": "pasal_363",
+        "similarity": 0.9781
+      }
+    ]
+  },
+  {
+    "query_id": "q11",
+    "source_case_id": "case_pasal_363_028",
+    "ground_truth_label_pasal": "pasal_363",
+    "ground_truth_vonis_bulan": 0,
+    "query_text": "putusa nnomor 453/pid. b/2021/pn mlgdemi keadilan berdasarkan ketuhanan yang maha esapengadilan negeri malang yang mengadili perkara pidana dengan acarapemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagai berikutdalam perkara terdakwa :1. nama lengkap : handi rentoko; 2. tempat lahir : malang; 3. umur/tanggal lahir : 30 tahun / 16 juni 1991; 4. jenis kelamin : laki-laki; 5. kebangsaan : indonesia; 6. tempat tinggal : dusun krajan, rt.002 rw.001, desa wirotaman,kecamatan ampelgadin",
+    "tfidf_top5": [
+      {
+        "case_id": "case_pasal_363_028",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_019",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_023",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_026",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_022",
+        "label": "pasal_363",
+        "similarity": 1.0
+      }
+    ],
+    "indobert_top5": [
+      {
+        "case_id": "case_pasal_363_028",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_019",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_023",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_026",
+        "label": "pasal_363",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_022",
+        "label": "pasal_363",
+        "similarity": 1.0
+      }
+    ]
+  },
+  {
+    "query_id": "q12",
+    "source_case_id": "case_pasal_362_021",
+    "ground_truth_label_pasal": "pasal_362",
+    "ground_truth_vonis_bulan": 24,
+    "query_text": "putusa nnomor 437/pid. b/2025/pn mlgdemi keadilan berdasarkan ketuhanan yang maha esapengadilan negeri malang yang mengadili perkara pidana denganacara pemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagaiberikut dalam perkara terdakwa :1. nama lengkap : muhammad erick kurniawan2. tempat lahir : mojokerto3. umur/tanggal lahir : 33/13 juli 19924. jenis kelamin : laki-laki5. kebangsaan : indonesia6. tempat tinggal : dusun baron timur ds. baron rt. 001 rw. 001 kec. baron kabupaten nga",
+    "tfidf_top5": [
+      {
+        "case_id": "case_pasal_362_021",
+        "label": "pasal_362",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_016",
+        "label": "pasal_363",
+        "similarity": 0.1793
+      },
+      {
+        "case_id": "case_pasal_362_007",
+        "label": "pasal_362",
+        "similarity": 0.1567
+      },
+      {
+        "case_id": "case_pasal_363_017",
+        "label": "pasal_363",
+        "similarity": 0.1542
+      },
+      {
+        "case_id": "case_pasal_362_023",
+        "label": "pasal_362",
+        "similarity": 0.1428
+      }
+    ],
+    "indobert_top5": [
+      {
+        "case_id": "case_pasal_362_021",
+        "label": "pasal_362",
+        "similarity": 1.0
+      },
+      {
+        "case_id": "case_pasal_363_020",
+        "label": "pasal_363",
+        "similarity": 0.9842
+      },
+      {
+        "case_id": "case_pasal_363_017",
+        "label": "pasal_363",
+        "similarity": 0.9813
+      },
+      {
+        "case_id": "case_pasal_362_003",
+        "label": "pasal_362",
+        "similarity": 0.9806
+      },
+      {
+        "case_id": "case_pasal_362_023",
+        "label": "pasal_362",
+        "similarity": 0.9804
+      }
+    ]
+  }
+]
