@@ -7,7 +7,7 @@ Repositori ini memuat kumpulan mini proyek yang mencakup berbagai pemodelan kece
 1. **Agent Based Model - Simulasi Ketergantungan AI pada Mahasiswa Dalam Penyelesaian Tugas**
    - Berisi pemodelan simulasi berbasis agen (Agent-Based Model) untuk menganalisis dinamika ketergantungan mahasiswa terhadap AI dalam mengerjakan tugas akademik.
 
-2. **NLP**
+2. **NLP - Question Generator**
    - Mini proyek di ranah Natural Language Processing (Pemrosesan Bahasa Alami) untuk analisis teks dan pemodelan bahasa.
 
 3. **Regression_Insurance (HealthCost AI)**
